@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/device_oneplus_sm6375-common",
+    "target_path": "device/oneplus/sm6375-common",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/packages_apps_GameBar",
+    "target_path": "packages/apps/GameBar",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://gitlab.com/larry-rom-archive/kernel_oneplus_sm6375",
+    "target_path": "kernel/oneplus/sm6375",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://gitlab.com/larry-rom-archive/vendor-oplus-camera",
+    "target_path": "vendor/oplus/camera",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/vendor_oneplus_larry",
+    "target_path": "vendor/oneplus/larry",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/vendor_oneplus_sm6375-common",
+    "target_path": "vendor/oneplus/sm6375-common",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/hardware_oplus",
+    "target_path": "hardware/oplus",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "https://github.com/Larry-ROM-Archive/hardware_dolby",
+    "target_path": "hardware/dolby",
+    "branch": "lineage-23.2"
+  }
+]
