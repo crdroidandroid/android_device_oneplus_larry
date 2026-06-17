@@ -15,6 +15,11 @@
     "branch": "16.0"
   },
   {
+    "repository": "crdroidandroid/android_hardware_dolby",
+    "target_path": "hardware/dolby",
+    "branch": "LunarisDolby"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_oneplus_larry",
     "target_path": "vendor/oneplus/larry",
     "branch": "lineage-23.2"
