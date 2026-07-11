@@ -20,6 +20,11 @@
     "branch": "LunarisDolby"
   },
   {
+    "repository": "crdroidandroid/android_packages_apps_GameBar",
+    "target_path": "packages/apps/GameBar",
+    "branch": "16.0"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_oneplus_larry",
     "target_path": "vendor/oneplus/larry",
     "branch": "lineage-23.2"
