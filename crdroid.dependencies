@@ -25,6 +25,11 @@
     "branch": "16.0"
   },
   {
+    "repository": "crdroidandroid/android_packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "16.0"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_oneplus_larry",
     "target_path": "vendor/oneplus/larry",
     "branch": "lineage-23.2"
